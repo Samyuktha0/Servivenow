@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="289204428367121072885e20ceaad32b" label="trainer" max_length="40" name="x_1619135_github_trainer" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Deparment" max_length="40" name="deparment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="user_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Admission no" max_length="40" name="admission_no" type="string"/>
+    </element>
+</database>
